@@ -1,1 +1,2 @@
-# kushal1
+name: KUSHAL P
+I am working GIThub
